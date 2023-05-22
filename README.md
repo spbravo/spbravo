@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spbravo
 - 👀 I’m interested in :
   - Platforms and Digital Economies
-  - Multi Cloud platforms (Amazon Web Services - AWS, Google Cloud, Azure, IBM BlueMix)
+  - Multi Cloud platforms (Amazon Web Services - AWS, Google Cloud, Azure)
   - API/ API Economy, Microservices Architecture, Event Driven Architecture
   - Containerization (Dockers/Kubernetes)
   - Software Engineering (Agile principles, Scrum, DevOps, GitOps)
